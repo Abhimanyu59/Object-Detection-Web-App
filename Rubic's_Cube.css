@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+#Back{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: large;
+}
+.header{
+    color: orange;
+    font-weight: bolder;
+}

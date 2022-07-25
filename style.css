@@ -1,0 +1,18 @@
+.Bolder{
+    font-weight: bolder;
+}
+.Anchor{
+    font-size: xx-large;
+}
+body{
+    background-size: cover;
+    text-align: center;
+}
+.copy_right_footer{
+    color: black;
+    margin-top: 260px;
+}
+.header{
+    color: orange;
+    font-weight: bolder;
+}
